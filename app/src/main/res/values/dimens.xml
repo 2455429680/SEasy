@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- font sizes -->
+    <dimen name="main_title">40px</dimen>
+    <dimen name="text_title">36px</dimen>
+    <dimen name="text">32px</dimen>
+    <dimen name="secondary_text">28px</dimen>
+    <dimen name="assist_text">20px</dimen>
+    <!-- typical spacing between two views -->
+    <dimen name="spacing_huge">40dp</dimen>
+    <dimen name="spacing_larger">34dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+    <dimen name="spacing_biger">20dp</dimen>
+    <dimen name="spacing_big">18dp</dimen>
+    <dimen name="spacing_normal">14dp</dimen>
+    <dimen name="spacing_small">12dp</dimen>
+    <dimen name="spacing_smaller">10dp</dimen>
+    <dimen name="spacing_smallest">8dp</dimen>
+    <dimen name="spacing_tiny">6dp</dimen>
+    <dimen name="spacing_tinyer">4dp</dimen>
+    <dimen name="spacing_tinyest">2dp</dimen>
+    <!--typical height-->
+    <dimen name="tab_height">96px</dimen>
+    <dimen name="lead_height">96px</dimen>
+    <dimen name="status_height">50px</dimen>
+    <!--icon size-->
+    <dimen name="launch_icon">48dp</dimen>
+    <dimen name="context_icon">16dp</dimen>
+    <dimen name="notification">32dp</dimen>
+</resources>
